@@ -20,5 +20,5 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Abhishek singh |DR. Ashutosh tiwari| Information technology |abhisheksinghcpj121@gmail.com | .
+1 | Abhishek singh |DR. Ashutosh tiwari| Information technology |Rajkiya Engineering College Banda | abhisheksinghcpj121@gmail.com
 2 | . | . | . | . | .
